@@ -1,0 +1,13 @@
+eureka:
+  client:
+    enabled: false
+
+
+management:
+  metrics: false
+
+
+security.basic.enabled: false
+
+server:
+  port: 8585
